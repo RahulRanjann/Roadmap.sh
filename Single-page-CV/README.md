@@ -1,4 +1,4 @@
-Certainly! Here's your README file in a well-formatted and polished style:
+Here's the corrected version of your README file:
 
 ---
 
@@ -53,8 +53,8 @@ This project provides a solid understanding of how to create a single-page CV us
 
 ---
 
-<html>
-    **Website:** <a href=" https://rahulranjann.github.io/Roadmap.sh/Single-page-CV/"> link</a>
-</html>
+**Website:** [Single-page CV](https://rahulranjann.github.io/Roadmap.sh/Single-page-CV/)
 
 ---
+
+This version should display the link properly and maintain the overall format of the README file.
