@@ -56,5 +56,3 @@ This project provides a solid understanding of how to create a single-page CV us
 **Website:** [Single-page CV](https://rahulranjann.github.io/Roadmap.sh/Single-page-CV/)
 
 ---
-
-This version should display the link properly and maintain the overall format of the README file.
