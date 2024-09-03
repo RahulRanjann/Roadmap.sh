@@ -53,7 +53,6 @@ This project provides a solid understanding of how to create a single-page CV us
 
 ---
 
-**Website:** [Single-page CV](https://rahulranjann.github.io/Roadmap.sh/Single-page-CV/)
-[link](https://roadmap.sh/projects/single-page-cv/)
+**project URL**:[link](https://roadmap.sh/projects/single-page-cv)
 
 ---
